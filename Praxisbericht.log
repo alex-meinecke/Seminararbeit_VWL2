@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  13 DEC 2023 22:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  16 DEC 2023 15:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1893,6 +1893,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 8.
 Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
+Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 )
 \tf@toc=\write6
 \openout6 = `Praxisbericht.toc'.
@@ -2210,30 +2211,14 @@ chapter 4.
 
 ]
 chapter without number
-LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 1
-04.
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmr.fd
-File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-104.
-
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `OMS/lmr/m/it' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 104.
-LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 104.
- [8
+[8
 
 
 
 
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [9] (./P
-raxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Standard/er
-klaerung.aux)
+] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
+(./Inhalt/01_Standard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
 ) (./Inhalt/04_Inhalt/theorie.aux) (./Inhalt/04_Inhalt/praxis.aux)
@@ -2248,21 +2233,16 @@ LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `Praxisbericht.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Praxisbericht
-(biblatex)                and rerun LaTeX afterwards.
-
 Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 \openout1 = `Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50118 strings out of 474273
- 1019558 string characters out of 5747714
- 1984409 words of memory out of 5000000
- 71391 multiletter control sequences out of 15000+600000
- 616354 words of font info for 125 fonts, out of 8000000 for 9000
+ 50028 strings out of 474273
+ 1017484 string characters out of 5747714
+ 1979211 words of memory out of 5000000
+ 71343 multiletter control sequences out of 15000+600000
+ 611753 words of font info for 111 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  113i,19n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/lo
@@ -2272,12 +2252,11 @@ dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts
 /type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
 lic/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lms
 s17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/loc
-al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Praxisbericht.pdf (14 pages, 271947 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (13 pages, 259093 bytes).
 PDF statistics:
- 256 PDF objects out of 1000 (max. 8388607)
- 211 compressed objects within 3 object streams
- 64 named destinations out of 1000 (max. 500000)
- 30823 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 199 compressed objects within 2 object streams
+ 55 named destinations out of 1000 (max. 500000)
+ 28783 words of extra memory for PDF output out of 29859 (max. 10000000)
 
