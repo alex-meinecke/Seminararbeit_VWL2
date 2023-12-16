@@ -1,0 +1,433 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Bonnen.2016}{book}{}
+      \name{author}{5}{}{%
+        {{hash=b1965660a29f49a8ff79a5c250f6637a}{%
+           family={Bönnen},
+           familyi={B\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=acb43fd07b9581c4af202d64d346f502}{%
+           family={Drees},
+           familyi={D\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=287dc6c050f6553dcd61d5be13505076}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9a97fdd039d2a7cf9b575c1d0d01a4ee}{%
+           family={Heinz},
+           familyi={H\bibinitperiod},
+           given={Ludwig},
+           giveni={L\bibinitperiod}}}%
+        {{hash=954f16aa092bce393024f033ba31b40f}{%
+           family={Strothmann},
+           familyi={S\bibinitperiod},
+           given={Karsten},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk Publishing}%
+      }
+      \strng{namehash}{dafa467315cdd5761509cc672b851864}
+      \strng{fullhash}{54b0d98fcd0eee055ca3c85fcd3cb26b}
+      \strng{bibnamehash}{dafa467315cdd5761509cc672b851864}
+      \strng{authorbibnamehash}{dafa467315cdd5761509cc672b851864}
+      \strng{authornamehash}{dafa467315cdd5761509cc672b851864}
+      \strng{authorfullhash}{54b0d98fcd0eee055ca3c85fcd3cb26b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2., aktualisierte und erweiterte Auflage}
+      \field{isbn}{978-3-8362-4019-2}
+      \field{series}{SAP Press}
+      \field{title}{SAP Gateway und OData}
+      \field{year}{2016}
+    \endentry
+    \entry{Forsthuber.2016}{book}{}
+      \name{author}{2}{}{%
+        {{hash=fe2f4c7784aa38a7da34be06e83d7be0}{%
+           family={Forsthuber},
+           familyi={F\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod}}}%
+        {{hash=99c82f7d9c5bc0156aeb6f0e424d48fd}{%
+           family={Siebert},
+           familyi={S\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk}%
+      }
+      \strng{namehash}{606035342301dd2e5c69a0a3994b193a}
+      \strng{fullhash}{606035342301dd2e5c69a0a3994b193a}
+      \strng{bibnamehash}{606035342301dd2e5c69a0a3994b193a}
+      \strng{authorbibnamehash}{606035342301dd2e5c69a0a3994b193a}
+      \strng{authornamehash}{606035342301dd2e5c69a0a3994b193a}
+      \strng{authorfullhash}{606035342301dd2e5c69a0a3994b193a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6., aktualisierte und erweiterte Auflage}
+      \field{isbn}{978-3-8362-3990-5}
+      \field{series}{Rheinwerk Publishing}
+      \field{title}{SAP{\circledR}-Finanzwesen: Das Praxishandbuch}
+      \field{year}{2016}
+    \endentry
+    \entry{Friedl.2017}{book}{}
+      \name{author}{2}{}{%
+        {{hash=98b6859d984562dfad216b0b7d1358a0}{%
+           family={Friedl},
+           familyi={F\bibinitperiod},
+           given={Gunther},
+           giveni={G\bibinitperiod}}}%
+        {{hash=c7e57c5d5de444deecaca8b6c302dd44}{%
+           family={Pedell},
+           familyi={P\bibinitperiod},
+           given={Burkhard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{d90a1ec450547d45a1c85c58ddc29971}
+      \strng{fullhash}{d90a1ec450547d45a1c85c58ddc29971}
+      \strng{bibnamehash}{d90a1ec450547d45a1c85c58ddc29971}
+      \strng{authorbibnamehash}{d90a1ec450547d45a1c85c58ddc29971}
+      \strng{authornamehash}{d90a1ec450547d45a1c85c58ddc29971}
+      \strng{authorfullhash}{d90a1ec450547d45a1c85c58ddc29971}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Das Standardwerk zum Controlling mit SAP in siebter Auflage. Die Vorzüge: Leichte Verständlichkeit, Beispielorientierung und überschaubarer Umfang der Darstellung. Das klar strukturierte Konzept führt den Leser anhand einer Fallstudie auch ohne Vorkenntnisse zu einem umfassenden Verständnis der SAP-Software. Die Zusammenhänge werden Schritt für Schritt erläutert: Von den Grundlagen der Kostenrechnung und des Controllings über die Funktionsweise der SAP-Software bis hin zur Anwendung im praktischen Betrieb. In der siebten Auflage wurden zahlreiche Aktualisierungen vorgenommen. Detailliertere Angaben erhöhen die Benutzerfreundlichkeit sowohl bei der Durchführung der Fallstudie als auch beim vorbereitenden Customizing. Der Inhalt Überblick über Controlling mit SAP - Durchgängige Fallstudie - Kostenstellenrechnung - Produktkalkulation und Kostenträgerrechnung - Ergebnis- und Marktsegmentrechnung - Konzeptionelle Entwicklungen des Controllings und ihre Abdeckung durch SAP (ERP, BW, BusinessObjects) - Vorbereitende Tätigkeiten im Customizing Die Zielgruppen Studierende der Wirtschaftswissenschaften und der Wirtschaftsinformatik Praktiker in Unternehmen Dozenten an Universitäten und Fachhochschulen sowie Schulungsleiter Die Autoren Prof. Dr. Gunther Friedl ist Inhaber des Lehrstuhls für Controlling an der Technischen Universität München. Prof. Dr. Burkhard Pedell ist Inhaber des Lehrstuhls Controlling an der Universität Stuttgart.}
+      \field{edition}{7. Aufl. 2017}
+      \field{isbn}{978-3-658-17407-1}
+      \field{title}{Controlling mit SAP{\circledR}: Eine praxisorientierte Einführung mit umfassender Fallstudie und beispielhaften Anwendungen}
+      \field{year}{2017}
+    \endentry
+    \entry{Kuhnlein.2016}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b8689be96835fbba53e95abb3fc768a9}{%
+           family={Kühnlein},
+           familyi={K\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed3f7fb926d36cd22222f90f5c4c2e18}{%
+           family={Seubert},
+           familyi={S\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{1}{%
+        {Rheinwerk Publishing}%
+      }
+      \strng{namehash}{464193f2509a390fc01ffa52934c662b}
+      \strng{fullhash}{464193f2509a390fc01ffa52934c662b}
+      \strng{bibnamehash}{464193f2509a390fc01ffa52934c662b}
+      \strng{authorbibnamehash}{464193f2509a390fc01ffa52934c662b}
+      \strng{authornamehash}{464193f2509a390fc01ffa52934c662b}
+      \strng{authorfullhash}{464193f2509a390fc01ffa52934c662b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. Auflage}
+      \field{isbn}{978-3-8362-3867-0}
+      \field{series}{SAP Press}
+      \field{title}{Native Anwendungsentwicklung mit SAP HANA}
+      \field{year}{2016}
+    \endentry
+    \entry{Mukherjee.2017}{book}{}
+      \name{author}{2}{}{%
+        {{hash=649142db390cdf9cfd15ec82c5a268b5}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Suman},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0acdb9a25a4e813acf22cde0772dd838}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Saptaparna},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley, CA}%
+      }
+      \list{publisher}{2}{%
+        {Apress}%
+        {Imprint: Apress}%
+      }
+      \strng{namehash}{e0d06c5d67beb3960bad0f6521455d54}
+      \strng{fullhash}{e0d06c5d67beb3960bad0f6521455d54}
+      \strng{bibnamehash}{e0d06c5d67beb3960bad0f6521455d54}
+      \strng{authorbibnamehash}{e0d06c5d67beb3960bad0f6521455d54}
+      \strng{authornamehash}{e0d06c5d67beb3960bad0f6521455d54}
+      \strng{authorfullhash}{e0d06c5d67beb3960bad0f6521455d54}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Leverage the flexibility and power of SAP MII to integrate your business operations with your manufacturing processes. You'll explore important new features of the product and see how to apply best practices to connect all the stakeholders in your business. This book starts with an overview of SAP's manufacturing integration and intelligence application and explains why it is so important. You'll then see how it is applied in various manufacturing sectors. The biggest challenge in manufacturing industries is to reduce the manual work and human intervention so that the process becomes automatic. SAP MII: Functional and Technical Concepts in Manufacturing Industries explains how to bridge the gap between management and production and bring sound vital information to the shop floor in real time. With this book you'll see how to ensure existing manufacturing and information systems share a common interface for all users in your enterprise.}
+      \field{isbn}{978-1-4842-2814-2}
+      \field{title}{SAP MII: Functional and Technical Concepts in Manufacturing Industries}
+      \field{year}{2017}
+    \endentry
+    \entry{Preuss.2017}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=8281184fd7b6f0d973b2009a9c59f1ec}{%
+           family={Preuss},
+           familyi={P\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Gabler}%
+      }
+      \strng{namehash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \strng{fullhash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \strng{bibnamehash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \strng{editorbibnamehash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \strng{editornamehash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \strng{editorfullhash}{8281184fd7b6f0d973b2009a9c59f1ec}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-3-658-18603-6}
+      \field{series}{SpringerLink : Bücher}
+      \field{title}{In-Memory-Datenbank SAP HANA}
+      \field{year}{2017}
+    \endentry
+    \entry{Schell.2017}{book}{}
+      \name{author}{5}{}{%
+        {{hash=843dd885ab0fa0127110dc302d275429}{%
+           family={Schell},
+           familyi={S\bibinitperiod},
+           given={Otto},
+           giveni={O\bibinitperiod}}}%
+        {{hash=2ce695e99c768810c1d366a8012bd552}{%
+           family={Schocke},
+           familyi={S\bibinitperiod},
+           given={Kai-Oliver},
+           giveni={K\bibinithyphendelim O\bibinitperiod}}}%
+        {{hash=1e5dc6e29f73aa413ba7b860ef59402a}{%
+           family={Schmid-Lutz},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=096c8b422a96d5fe6bb438bb1b3be30f}{%
+           family={Stockrahm},
+           familyi={S\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+        {{hash=b8919a3811245589d893b65c0ac0e222}{%
+           family={Zinovieva},
+           familyi={Z\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bonn}%
+      }
+      \list{publisher}{2}{%
+        {Rheinwerk}%
+        {SAP PRESS}%
+      }
+      \strng{namehash}{1a2ba0a58df0357f4363c77ef08c61e6}
+      \strng{fullhash}{cf68aa3b7e9f830717d65509e9799da5}
+      \strng{bibnamehash}{1a2ba0a58df0357f4363c77ef08c61e6}
+      \strng{authorbibnamehash}{1a2ba0a58df0357f4363c77ef08c61e6}
+      \strng{authornamehash}{1a2ba0a58df0357f4363c77ef08c61e6}
+      \strng{authorfullhash}{cf68aa3b7e9f830717d65509e9799da5}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. Auflage, neue Ausgabe}
+      \field{isbn}{978-3-8362-4272-1}
+      \field{series}{SAP Press}
+      \field{title}{Industrie 4.0 mit SAP: Digitale Transformation und das Internet of Things (IoT)}
+      \field{year}{2017}
+    \endentry
+    \entry{Smith.2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=2b3a3b181f9b58b0691362254fcd2680}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Andre},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=845c49cef8523bdc557ae079eab2e5c9}{%
+           family={blogs.sap.com},
+           familyi={b\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{fullhash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{bibnamehash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{authorbibnamehash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{authornamehash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{authorfullhash}{2b3a3b181f9b58b0691362254fcd2680}
+      \strng{editorbibnamehash}{845c49cef8523bdc557ae079eab2e5c9}
+      \strng{editornamehash}{845c49cef8523bdc557ae079eab2e5c9}
+      \strng{editorfullhash}{845c49cef8523bdc557ae079eab2e5c9}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://blogs.sap.com/2017/10/24/sap-integrates-the-new-blockchain-technologies/}}
+      \field{title}{SAP Integrates the New Blockchain Technologies: SAP Tests Different Blockchains}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Visser.2017}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=bf78422f90162e4c71936d76a39712b5}{%
+           family={Visser},
+           familyi={V\bibinitperiod},
+           given={Corina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a082b4eab9d80db5806ee253bb64bc60}{%
+           family={{Zeit Online}},
+           familyi={Z\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{fullhash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{bibnamehash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{authorbibnamehash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{authornamehash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{authorfullhash}{bf78422f90162e4c71936d76a39712b5}
+      \strng{editorbibnamehash}{a082b4eab9d80db5806ee253bb64bc60}
+      \strng{editornamehash}{a082b4eab9d80db5806ee253bb64bc60}
+      \strng{editorfullhash}{a082b4eab9d80db5806ee253bb64bc60}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.zeit.de/wirtschaft/unternehmen/2013-07/sap-jim-hagemann-snabe-ruecktritt}}
+      \field{title}{Das Ende eines perfekten Teams}
+      \field{urlday}{24}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{Zaidi.2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=49b56c6f6d64d059f5ee6c5e03d78dc8}{%
+           family={Zaidi},
+           familyi={Z\bibinitperiod},
+           given={Rehan},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {[New York, NY]}%
+      }
+      \list{publisher}{1}{%
+        {Apress}%
+      }
+      \strng{namehash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \strng{fullhash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \strng{bibnamehash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \strng{authorbibnamehash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \strng{authornamehash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \strng{authorfullhash}{49b56c6f6d64d059f5ee6c5e03d78dc8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Easily master JavaScript (JS) with this quick guide and develop mobile and desktop applications for SAP Fiori. This book equips ABAP/SAP developers with the essential topics to get started with JS. The focus of JavaScript Essentials for SAP ABAP Developers is on the parts of the JS language that are useful from the perspective of an ABAP developer. The book starts with a brief intro to HTML, the basics of JS, and how to create and run a simple JS program. It then dives into the details of the language, showing how to make simple programs. It covers loops in detail, mathematical operations, and string and regular expressions in JS, as well as a taste of functions, followed by objects and object-oriented programming in JavaScript. The book provides: Sample code and screenshots to help you fully understand JSA chapter on JS best practices and recommendationsDifferences and comparisons of the elements and data structures of ABAP and JavaScript to help you quickly master the material What You'll Learn Create and run a simple JavaScript programUnderstand loops, operations, and expressionsMaster the Create and Use functionsUse objects and object-oriented programming in JSApply the best practices of JS programming Who This Book Is For SAP programmers and developers, ABAP users and developers, and university students learning ABAP and JavaScript.}
+      \field{isbn}{978-1-4842-2220-1}
+      \field{title}{JavaScript essentials for SAP ABAP developers: A guide to mobile and desktop application development}
+      \field{year}{2017}
+    \endentry
+    \entry{o.V..o.J.}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4353cfcbb3e2e700a10ee3278596bbab}{%
+           family={o.V.},
+           familyi={o\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=24f313142a860c265602bddae5bc1312}{%
+           family={{Frank Marketing UG}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{fullhash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{bibnamehash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{authorbibnamehash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{authornamehash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{authorfullhash}{4353cfcbb3e2e700a10ee3278596bbab}
+      \strng{editorbibnamehash}{24f313142a860c265602bddae5bc1312}
+      \strng{editornamehash}{24f313142a860c265602bddae5bc1312}
+      \strng{editorfullhash}{24f313142a860c265602bddae5bc1312}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{http://www.sascha-frank.com/Arrow/latex-arrows.html}}
+      \field{title}{LaTeX arrows: Informationen zu LaTeX}
+      \field{urlday}{30}
+      \field{urlmonth}{10}
+      \field{urlyear}{2017}
+      \field{year}{o.J.}
+      \field{urldateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
