@@ -19,6 +19,41 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{icap.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
+           family={{International Carbon Action Partnership (ICAP)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c7f214551257293c57f1059494344d7d}{%
+           family={{Offical Website of the International Carbon Action Partnership}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{fullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{bibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authorbibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authornamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authorfullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{editorbibnamehash}{c7f214551257293c57f1059494344d7d}
+      \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
+      \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://icapcarbonaction.com/system/files/document/ICAP\%20Emissions\%20Trading\%20Worldwide\%202023\%20Status\%20Report_0.pdf}}
+      \field{title}{EMISSIONS TRADING WORLDWIDE - STATUS REPORT 2023}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
     \entry{eu.2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
@@ -42,8 +77,9 @@
       \strng{editorbibnamehash}{1e55fd5e3fde5a8417dc4858bff49024}
       \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
       \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/what-eu-ets_en}}
@@ -77,13 +113,85 @@
       \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/nEHS-verstehen/nehs-verstehen_node.html}}
       \field{title}{Nationalen Emissionshandel verstehen}
       \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{eu2.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+           family={{Europäische Kommission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1e55fd5e3fde5a8417dc4858bff49024}{%
+           family={{Climate Action - European Commission}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{fullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{bibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorbibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authornamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorfullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{editorbibnamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation_en}}
+      \field{title}{Free allocation}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{eu3.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+           family={{Europäische Kommission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1e55fd5e3fde5a8417dc4858bff49024}{%
+           family={{Climate Action - European Commission}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{fullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{bibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorbibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authornamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorfullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{editorbibnamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \field{extraname}{3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/market-stability-reserve_en}}
+      \field{title}{Market Stability Reserve}
+      \field{urlday}{17}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2023}

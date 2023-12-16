@@ -7,8 +7,11 @@
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}%
 \contentsline {chapter}{\numberline {2}Theorie}{2}{chapter.2}%
 \contentsline {chapter}{\numberline {3}Praxis}{3}{chapter.3}%
-\contentsline {section}{\numberline {3.1}EU-Emissionshandelssystem (ETS)}{3}{section.3.1}%
-\contentsline {chapter}{\numberline {4}Zusammenfassung und Fazit}{4}{chapter.4}%
-\contentsline {chapter}{\nonumberline Literaturverzeichnis}{VIII}{chapter*.9}%
+\contentsline {section}{\numberline {3.1}EU-Emissionshandelssystem (EU ETS)}{3}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Nationales Emissionshandelssystem (nEHS)}{4}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Erfolge von EU ETS und nEHS}{4}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Probleme und Verbessung von ETS und nEHS}{4}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Zusammenfassung und Fazit}{5}{chapter.4}%
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{VIII}{chapter*.11}%
 \contentsfinish 
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

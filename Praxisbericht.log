@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  16 DEC 2023 15:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  17 DEC 2023 00:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1894,6 +1894,9 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
+Package tocbasic Info: Using my definition of `\numberline' on input line 14.
+Package tocbasic Info: Using my definition of `\numberline' on input line 15.
 )
 \tf@toc=\write6
 \openout6 = `Praxisbericht.toc'.
@@ -2194,17 +2197,19 @@ chapter 2.
 
  (./Inhalt/04_Inhalt/praxis.tex
 chapter 3.
-) [3
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 13.
+[3
 
 
 
 
-]
+]) [4]
 \openout2 = `Inhalt/04_Inhalt/fazit.aux'.
 
  (./Inhalt/04_Inhalt/fazit.tex
 chapter 4.
-) [4
+) [5
 
 
 
@@ -2238,11 +2243,11 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50028 strings out of 474273
- 1017484 string characters out of 5747714
- 1979211 words of memory out of 5000000
- 71343 multiletter control sequences out of 15000+600000
- 611753 words of font info for 111 fonts, out of 8000000 for 9000
+ 50197 strings out of 474273
+ 1021029 string characters out of 5747714
+ 1993643 words of memory out of 5000000
+ 71477 multiletter control sequences out of 15000+600000
+ 612936 words of font info for 124 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  113i,19n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/lo
@@ -2253,10 +2258,10 @@ dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts
 lic/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lms
 s17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (13 pages, 259093 bytes).
+Output written on Praxisbericht.pdf (14 pages, 272093 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 199 compressed objects within 2 object streams
- 55 named destinations out of 1000 (max. 500000)
- 28783 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 277 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 28807 words of extra memory for PDF output out of 29859 (max. 10000000)
 
