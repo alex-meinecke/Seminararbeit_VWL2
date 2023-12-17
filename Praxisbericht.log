@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  17 DEC 2023 14:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  17 DEC 2023 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1737,7 +1737,62 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Praxisbericht.bbl' found.
 
-(./Praxisbericht.bbl)
+(./Praxisbericht.bbl
+! Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   g
+l.81 ...rtschaftliche-bedeutung-der-umweltkosten}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.88     \endentry
+                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   :
+l.441 ...0Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   :
+l.448     \endentry
+                   
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   t
+l.477 ...tzung-des-europaischen-emissionshandels}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.484     \endentry
+                   
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+)
 Package biblatex Info: Reference section=0 on input line 47.
 Package biblatex Info: Reference segment=0 on input line 47.
 \c@lstlisting=\count511
@@ -1895,8 +1950,9 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
 Package tocbasic Info: Using my definition of `\numberline' on input line 13.
-Package tocbasic Info: Using my definition of `\numberline' on input line 14.
-Package tocbasic Info: Using my definition of `\numberline' on input line 15.
+Package tocbasic Info: Using my definition of `\numberline' on input line 17.
+Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 19.
 )
 \tf@toc=\write6
 \openout6 = `Praxisbericht.toc'.
@@ -2187,49 +2243,176 @@ l.93 \include{Inhalt/04_Inhalt/einleitung}
 
  (./Inhalt/04_Inhalt/theorie.tex
 chapter 2.
-) [2
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.5 ...rt \cite[S. 25]{rabe.2018} \cite{ub4.2023}.
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.7 ...809 Euro pro Tonne CO2 aus \cite{ub4.2023}.
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+[2
 
 
 
 
-]
+]) [3]
 \openout2 = `Inhalt/04_Inhalt/praxis.aux'.
 
  (./Inhalt/04_Inhalt/praxis.tex
 chapter 3.
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 13.
-[3
+[4
 
 
 
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-2.
+0.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [4]) [5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [6
-]
+) [5] [6{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [7]
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   :
+l.83 ... 38\% reduziert werden \cite{dehst3.2023}.
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.84 ...bis 2020 um 21\% gesunken \cite{ub3.2023}.
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+) [8]
 \openout2 = `Inhalt/04_Inhalt/fazit.aux'.
 
-
-(./Inhalt/04_Inhalt/fazit.tex
+ (./Inhalt/04_Inhalt/fazit.tex
 chapter 4.
-) [7
+) [9
 
 
 
 
 ]
 chapter without number
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+
+Overfull \hbox (2.40656pt too wide) in paragraph at lines 104--104
+[]\T1/lmr/m/n/12 (-20) International Car-bon Ac-ti-on Part-ner-ship (ICAP).  \T
+1/lmr/m/it/12 (-20) EMIS-SI-ONS TRA-DING WORLD-
+ []
+
 [8
 
 
 
 
 
-] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
+]
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   t
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   t
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+[9] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
 (./Inhalt/01_Standard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
@@ -2250,25 +2433,26 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50281 strings out of 474273
- 1022785 string characters out of 5747714
- 2001894 words of memory out of 5000000
- 71525 multiletter control sequences out of 15000+600000
- 614498 words of font info for 138 fonts, out of 8000000 for 9000
+ 50373 strings out of 474273
+ 1024733 string characters out of 5747714
+ 2007177 words of memory out of 5000000
+ 71563 multiletter control sequences out of 15000+600000
+ 622083 words of font info for 160 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  113i,19n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/lo
-cal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive
-/2023/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-
-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts
-/type1/public/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pub
-lic/lm/lmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lms
-s17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (16 pages, 279071 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/l
+ocal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texli
+ve/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/tex
+mf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/lm/lmri12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
+blic/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lm
+ss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
+/usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
+al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
+Output written on Praxisbericht.pdf (19 pages, 312667 bytes).
 PDF statistics:
- 305 PDF objects out of 1000 (max. 8388607)
- 260 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 30855 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 374 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
+ 82 named destinations out of 1000 (max. 500000)
+ 34959 words of extra memory for PDF output out of 35830 (max. 10000000)
 
