@@ -295,6 +295,78 @@
       \field{year}{2023}
       \field{urldateera}{ce}
     \endentry
+    \entry{dehst3.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=6fa23ecb70ab77e4e3870fc941e21882}{%
+           family={{Deutsche Emissionshandelsstelle}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d769b9c56a50a27b030e1dab18e1e2bd}{%
+           family={{Webseite der Deutschen Emissionshandelsstelle}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{fullhash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{bibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authorbibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authornamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authorfullhash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
+      \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
+      \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.dehst.de/DE/Europaeischer-Emissionshandel/EU-Emissionshandel-verstehen/EU-ETS-auf-einen-Blick/EU-ETS-auf-einen-Blick_node.html#:~:text=Alle\%20im\%20EU\%2DETS\%20erfassten,27\%20Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
+      \field{title}{EU-ETS auf einen Blick}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2022}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{ub3.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/klima/der-europaeische-emissionshandel#teilnehmer-prinzip-und-umsetzung-des-europaischen-emissionshandels}}
+      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
     \entry{eu2.2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
@@ -331,6 +403,42 @@
       \field{year}{2023}
       \field{urldateera}{ce}
     \endentry
+    \entry{ub2.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{4}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/cbam_factsheet_de.pdf}}
+      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
     \entry{eu3.2023}{misc}{}
       \name{author}{1}{}{%
         {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
@@ -355,8 +463,8 @@
       \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
       \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
       \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/market-stability-reserve_en}}
@@ -391,8 +499,8 @@
       \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://icapcarbonaction.com/system/files/ets_pdfs/icap-etsmap-factsheet-43.pdf}}
@@ -426,121 +534,13 @@
       \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extraname}{3}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/Carbon-Leakage/carbon-leakage_node.html}}
       \field{title}{Carbon Leakage}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{ub2.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/cbam_factsheet_de.pdf}}
-      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{dehst3.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=6fa23ecb70ab77e4e3870fc941e21882}{%
-           family={{Deutsche Emissionshandelsstelle}},
-           familyi={D\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=d769b9c56a50a27b030e1dab18e1e2bd}{%
-           family={{Webseite der Deutschen Emissionshandelsstelle}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{fullhash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{bibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authorbibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authornamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authorfullhash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.dehst.de/DE/Europaeischer-Emissionshandel/EU-Emissionshandel-verstehen/EU-ETS-auf-einen-Blick/EU-ETS-auf-einen-Blick_node.html#:~:text=Alle\%20im\%20EU\%2DETS\%20erfassten,27\%20Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
-      \field{title}{EU-ETS auf einen Blick}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2022}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{ub3.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \field{extraname}{4}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/klima/der-europaeische-emissionshandel#teilnehmer-prinzip-und-umsetzung-des-europaischen-emissionshandels}}
-      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
       \field{urlday}{17}
       \field{urlmonth}{12}
       \field{urlyear}{2023}

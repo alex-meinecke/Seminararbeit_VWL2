@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  17 JAN 2024 20:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  18 JAN 2024 22:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1661,14 +1661,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(76.82234pt, 449.55371pt, 71.13188pt)
+* h-part:(L,W,R)=(59.75095pt, 478.00604pt, 59.75095pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78317pt, 71.13188pt)
 * \paperwidth=597.50793pt
 * \paperheight=845.04694pt
-* \textwidth=449.55371pt
+* \textwidth=478.00604pt
 * \textheight=612.15817pt
-* \oddsidemargin=4.55235pt
-* \evensidemargin=4.55235pt
+* \oddsidemargin=-12.51904pt
+* \evensidemargin=-12.51904pt
 * \topmargin=-1.1381pt
 * \headheight=18.125pt
 * \headsep=21.75pt
@@ -1759,7 +1759,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
                    :
-l.506 ...0Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
+l.326 ...0Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1768,7 +1768,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
-l.513     \endentry
+l.333     \endentry
                    
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1777,7 +1777,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
                    t
-l.542 ...tzung-des-europaischen-emissionshandels}}
+l.362 ...tzung-des-europaischen-emissionshandels}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1786,7 +1786,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
-l.549     \endentry
+l.369     \endentry
                    
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1949,9 +1949,7 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 9.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
 Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 Package tocbasic Info: Using my definition of `\numberline' on input line 12.
-Package tocbasic Info: Using my definition of `\numberline' on input line 16.
-Package tocbasic Info: Using my definition of `\numberline' on input line 17.
-Package tocbasic Info: Using my definition of `\numberline' on input line 18.
+Package tocbasic Info: Using my definition of `\numberline' on input line 13.
 )
 \tf@toc=\write6
 \openout6 = `Praxisbericht.toc'.
@@ -2265,29 +2263,17 @@ chapter 2.
 
 
 
-] [3]
+]
 \openout2 = `Inhalt/04_Inhalt/praxis.aux'.
 
  (./Inhalt/04_Inhalt/praxis.tex
 chapter 3.
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
 ine 13.
-[4
-
-
-
-
-]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
-0.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [5] [6{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] [7]
-
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
-l.83 ... 38\% reduziert werden \cite{dehst3.2023}.
+l.16 ... 38\% reduziert werden \cite{dehst3.2023}.
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2296,18 +2282,42 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
-l.84 ...bis 2020 um 21\% gesunken \cite{ub3.2023}.
+l.17 ...bis 2020 um 21\% gesunken \cite{ub3.2023}.
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-) [8]
+
+! Package xkeyval Error: `Quelle exx wiederfinden' undefined in families `todon
+otes'.
+
+See the xkeyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...bert.2020} \todo[Quelle exx wiederfinden].
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[3
+
+
+
+
+] [4]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
+7.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) [6]
 \openout2 = `Inhalt/04_Inhalt/fazit.aux'.
 
- (./Inhalt/04_Inhalt/fazit.tex
+
+(./Inhalt/04_Inhalt/fazit.tex
 chapter 4.
-) [9
+) [7
 
 
 
@@ -2344,18 +2354,14 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-
-Overfull \hbox (0.133pt too wide) in paragraph at lines 104--104
-\T1/lmr/m/n/12 (+12) t r u e  & a m p  ; d b  = c a t 0 9 3 3 6 a  & a m p  ; A
- N  = b k m  . 1 6 8 6 4 6 3 2 0 0  & a m p  ; l a n g  = d e  & a m p  ; s i t
- e  =
- []
-
-
-Overfull \hbox (2.40656pt too wide) in paragraph at lines 104--104
-[]\T1/lmr/m/n/12 (-20) International Car-bon Ac-ti-on Part-ner-ship (ICAP).  \T
-1/lmr/m/it/12 (-20) EMIS-SI-ONS TRA-DING WORLD-
- []
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
 
 [8
 
@@ -2364,15 +2370,6 @@ Overfull \hbox (2.40656pt too wide) in paragraph at lines 104--104
 
 
 ]
-! Illegal parameter number in definition of \abx@field@howpublished.
-<to be read again> 
-                   :
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 ! Illegal parameter number in definition of \Hy@tempa.
 <to be read again> 
                    :
@@ -2418,7 +2415,7 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-[9] [10] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
+[9] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
 (./Inhalt/01_Standard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
@@ -2439,13 +2436,13 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50384 strings out of 474273
- 1025064 string characters out of 5747714
- 2016282 words of memory out of 5000000
- 71568 multiletter control sequences out of 15000+600000
- 622303 words of font info for 162 fonts, out of 8000000 for 9000
+ 50379 strings out of 474273
+ 1024977 string characters out of 5747714
+ 2018726 words of memory out of 5000000
+ 71570 multiletter control sequences out of 15000+600000
+ 619500 words of font info for 160 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 113i,19n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,20n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texli
 ve/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/tex
@@ -2455,10 +2452,10 @@ blic/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lm
 ss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (20 pages, 316733 bytes).
+Output written on Praxisbericht.pdf (17 pages, 314908 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
- 84 named destinations out of 1000 (max. 500000)
- 34951 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 321 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 32887 words of extra memory for PDF output out of 35830 (max. 10000000)
 
