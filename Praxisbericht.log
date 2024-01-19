@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  18 JAN 2024 22:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  19 JAN 2024 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2224,10 +2224,12 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 81
 
  (./Inhalt/04_Inhalt/einleitung.tex
 chapter 1.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 4.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    g
-l.6 ...en \cite[S. 25]{rabe.2018} \cite{ub4.2023}.
+l.7 ...en \cite[S. 25]{rabe.2018} \cite{ub4.2023}.
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2236,7 +2238,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    g
-l.8 ...809 Euro pro Tonne CO2 aus \cite{ub4.2023}.
+l.9 ... Euro pro Tonne $CO_2$ aus \cite{ub4.2023}.
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2263,13 +2265,11 @@ chapter 2.
 
 
 
-]
+] [3]
 \openout2 = `Inhalt/04_Inhalt/praxis.aux'.
 
  (./Inhalt/04_Inhalt/praxis.tex
 chapter 3.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 13.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
@@ -2288,36 +2288,23 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-
-! Package xkeyval Error: `Quelle exx wiederfinden' undefined in families `todon
-otes'.
-
-See the xkeyval package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 ...bert.2020} \todo[Quelle exx wiederfinden].
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[3
+[4
 
 
 
 
-] [4]
+] [5]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
 7.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [5{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) [6]
+) [6{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]) [7]
 \openout2 = `Inhalt/04_Inhalt/fazit.aux'.
 
 
 (./Inhalt/04_Inhalt/fazit.tex
 chapter 4.
-) [7
+) [8
 
 
 
@@ -2415,7 +2402,7 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-[9] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
+[9] [10] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
 (./Inhalt/01_Standard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
@@ -2436,11 +2423,11 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50379 strings out of 474273
- 1024977 string characters out of 5747714
- 2018726 words of memory out of 5000000
- 71570 multiletter control sequences out of 15000+600000
- 619500 words of font info for 160 fonts, out of 8000000 for 9000
+ 50368 strings out of 474273
+ 1024812 string characters out of 5747714
+ 2020631 words of memory out of 5000000
+ 71563 multiletter control sequences out of 15000+600000
+ 619282 words of font info for 157 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  113i,20n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/l
@@ -2452,10 +2439,10 @@ blic/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lm
 ss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (17 pages, 314908 bytes).
+Output written on Praxisbericht.pdf (19 pages, 317279 bytes).
 PDF statistics:
- 370 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 79 named destinations out of 1000 (max. 500000)
+ 385 PDF objects out of 1000 (max. 8388607)
+ 334 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
  32887 words of extra memory for PDF output out of 35830 (max. 10000000)
 
