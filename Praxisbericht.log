@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  19 JAN 2024 10:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  19 JAN 2024 11:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -549,7 +549,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'numeric.dbx' not found.
+Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count333
@@ -659,11 +659,11 @@ File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
 \biburllcskip=\muskip20
 \c@smartand=\count409
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/authoryear.bbx
+File: authoryear.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
@@ -672,22 +672,18 @@ File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count410
 \c@bbx:relatedtotal=\count411
 ))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/cbx/authoryear.cbx
+File: authoryear.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
 Package biblatex Info: Redefining '\footcitetext'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
 )
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
@@ -939,7 +935,7 @@ File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 (/usr/local/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2023/02/27 1.9 listings configuration
 ))
-Package scrhack Info: loading listings hack on input line 95.
+Package scrhack Info: loading listings hack on input line 96.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/listings.hak
 File: listings.hak 2023/07/07 v3.41 KOMA-Script scrhack part (hacking package l
@@ -1577,15 +1573,31 @@ File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
 1: chapter
 1: section
 )
+
+! Package biblatex Error: Option 'sorting=true' invalid.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 \begin{document}
+                     
+The option you have supplied is invalid.
+See the biblatex manual for valid option keys and possible values.
+
+
+Package biblatex Warning: Conflicting options.
+(biblatex)                '<namepart>inits' conflicts with 'uniquename=full'.
+(biblatex)                Setting 'uniquename=init' on input line 47.
+
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 47
 .
- (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
+(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-(./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
-(./Inhalt/01_Standard/erklaerung.aux)
+) (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux) (./Inhalt/01_Stand
+ard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
 ) (./Inhalt/04_Inhalt/theorie.aux) (./Inhalt/04_Inhalt/praxis.aux)
@@ -1661,14 +1673,14 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: includehead includefoot 
-* h-part:(L,W,R)=(59.75095pt, 478.00604pt, 59.75095pt)
+* h-part:(L,W,R)=(56.9055pt, 483.69693pt, 56.9055pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78317pt, 71.13188pt)
 * \paperwidth=597.50793pt
 * \paperheight=845.04694pt
-* \textwidth=478.00604pt
+* \textwidth=483.69693pt
 * \textheight=612.15817pt
-* \oddsidemargin=-12.51904pt
-* \evensidemargin=-12.51904pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
 * \topmargin=-1.1381pt
 * \headheight=18.125pt
 * \headsep=21.75pt
@@ -1740,26 +1752,8 @@ Package biblatex Info: ... file 'Praxisbericht.bbl' found.
 (./Praxisbericht.bbl
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
-                   g
-l.113 ...tschaftliche-bedeutung-der-umweltkosten}}
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \abx@field@howpublished.
-<to be read again> 
-                   g
-l.120     \endentry
-                   
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \NewValue.
-<to be read again> 
                    :
-l.326 ...0Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
+l.91 ...20Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1768,8 +1762,8 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
-l.333     \endentry
-                   
+l.98     \endentry
+                  
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
@@ -1777,7 +1771,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
                    t
-l.362 ...tzung-des-europaischen-emissionshandels}}
+l.545 ...tzung-des-europaischen-emissionshandels}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1786,7 +1780,25 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
-l.369     \endentry
+l.552     \endentry
+                   
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \NewValue.
+<to be read again> 
+                   g
+l.623 ...tschaftliche-bedeutung-der-umweltkosten}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.630     \endentry
                    
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -2224,13 +2236,11 @@ Package tocbasic Info: character protrusion at lol deactivated on input line 81
 
  (./Inhalt/04_Inhalt/einleitung.tex
 chapter 1.
-Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 4.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    g
-l.7 ...en \cite[S. 25]{rabe.2018} \cite{ub4.2023}.
-                                                  
+l.5 ...e[S. 25]{rabe.2018}) (vgl. \cite{ub4.2023})
+                                                  .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
@@ -2238,8 +2248,8 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    g
-l.9 ... Euro pro Tonne $CO_2$ aus \cite{ub4.2023}.
-                                                  
+l.7 ...pro Tonne $CO_2$ aus (vgl. \cite{ub4.2023})
+                                                  .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
@@ -2260,6 +2270,8 @@ l.93 \include{Inhalt/04_Inhalt/einleitung}
 
  (./Inhalt/04_Inhalt/theorie.tex
 chapter 2.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 16.
 ) [2
 
 
@@ -2273,8 +2285,8 @@ chapter 3.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
-l.16 ... 38\% reduziert werden \cite{dehst3.2023}.
-                                                  
+l.16 ...reduziert werden (vgl. \cite{dehst3.2023})
+                                                  .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
@@ -2282,8 +2294,8 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
-l.17 ...bis 2020 um 21\% gesunken \cite{ub3.2023}.
-                                                  
+l.17 ...20 um 21\% gesunken (vgl. \cite{ub3.2023})
+                                                  .
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
@@ -2311,36 +2323,6 @@ chapter 4.
 
 ]
 chapter without number
-Package microtype Info: Character `029' is missing
-(microtype)             in font `T1/lmr/m/sc/12'.
-(microtype)             Ignoring protrusion settings for this character.
-! Illegal parameter number in definition of \abx@field@howpublished.
-<to be read again> 
-                   g
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \Hy@tempa.
-<to be read again> 
-                   g
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \Hy@tempa.
-<to be read again> 
-                   g
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    :
@@ -2350,6 +2332,27 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   :
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/lmr/m/sc/12'.
+(microtype)             Ignoring protrusion settings for this character.
 [8
 
 
@@ -2357,24 +2360,6 @@ are all screwed up? I'm going to assume that you meant ##.
 
 
 ]
-! Illegal parameter number in definition of \Hy@tempa.
-<to be read again> 
-                   :
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
-! Illegal parameter number in definition of \Hy@tempa.
-<to be read again> 
-                   :
-l.104 ...tbibliography[title=Literaturverzeichnis]
-                                                  
-You meant to type ## instead of #, right?
-Or maybe a } was forgotten somewhere earlier, and things
-are all screwed up? I'm going to assume that you meant ##.
-
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
@@ -2402,7 +2387,34 @@ You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-[9] [10] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+                   g
+l.104 ...tbibliography[title=Literaturverzeichnis]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+[9] (./Praxisbericht.aux (./Inhalt/01_Standard/titelseite.aux)
 (./Inhalt/01_Standard/erklaerung.aux)
 (./Inhalt/03_Verzeichnisse/formelgroessen.aux)
 (./Inhalt/03_Verzeichnisse/abkuerzungen.aux) (./Inhalt/04_Inhalt/einleitung.aux
@@ -2423,13 +2435,13 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50368 strings out of 474273
- 1024812 string characters out of 5747714
- 2020631 words of memory out of 5000000
- 71563 multiletter control sequences out of 15000+600000
- 619282 words of font info for 157 fonts, out of 8000000 for 9000
+ 50421 strings out of 474273
+ 1025416 string characters out of 5747714
+ 2020922 words of memory out of 5000000
+ 71624 multiletter control sequences out of 15000+600000
+ 618954 words of font info for 154 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 113i,20n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 113i,19n,117p,10998b,2461s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texli
 ve/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2023/tex
@@ -2439,10 +2451,10 @@ blic/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lm
 ss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (19 pages, 317279 bytes).
+Output written on Praxisbericht.pdf (18 pages, 316931 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 334 compressed objects within 4 object streams
- 81 named destinations out of 1000 (max. 500000)
+ 377 PDF objects out of 1000 (max. 8388607)
+ 327 compressed objects within 4 object streams
+ 79 named destinations out of 1000 (max. 500000)
  32887 words of extra memory for PDF output out of 35830 (max. 10000000)
 

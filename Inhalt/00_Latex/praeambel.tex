@@ -16,9 +16,10 @@
 \usepackage{graphicx}        % Einbinden von Grafiken erlauben
 \usepackage{wrapfig}         % Grafiken fließend im Text
 \usepackage{setspace}        % Zeilenabstand \singlespacing, \onehalfspaceing, \doublespacing
+\setstretch{1.2}
 \usepackage[
 	%showframe,                % Ränder anzeigen lassen
-	left=2.1cm, right=2.1cm,
+	left=2.0cm, right=2.0cm,
 	top=2.5cm,  bottom=2.5cm,
 	includeheadfoot
 ]{geometry}                      % Seitenlayout einstellen
@@ -58,8 +59,8 @@
 \usepackage[
 	backend = biber,                % Verweis auf biber
 	language = auto,
-	style = numeric,                % Nummerierung der Quellen mit Zahlen
-	sorting = none,                 % none = Sortierung nach der Erscheinung im Dokument
+	style = authoryear,                % Nummerierung der Quellen mit Zahlen
+	sorting = true,                 % none = Sortierung nach der Erscheinung im Dokument
 	sortcites = true,               % Sortiert die Quellen innerhalb eines cite-Befehls
 	block = space,                  % Extra Leerzeichen zwischen Blocks
 	hyperref = true,                % Links sind klickbar auch in der Quelle

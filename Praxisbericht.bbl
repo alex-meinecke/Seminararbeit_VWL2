@@ -18,250 +18,10 @@
 
 
 \refsection{0}
-  \datalist[entry]{none/global//global/global}
-    \entry{hubert.2020}{book}{}
+  \datalist[entry]{nty/global//global/global}
+    \entry{dehst2.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=7517502667e2e13138580620ebfd4b4a}{%
-           family={Hubert},
-           familyi={H\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Verlag W. Kohlhammer}%
-      }
-      \strng{namehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{fullhash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{bibnamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authorbibnamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authornamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authorfullhash}{7517502667e2e13138580620ebfd4b4a}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783170373921}
-      \field{title}{Globaler Klimawandel aus ökonomischer Perspektive : mikro- und makroökonomische Konsequenzen, Lösungsansätze und Handlungsoptionen / Frank Hubert.}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1733445617&amp;lang=de&amp;site=eds-live
-      \endverb
-      \verb{url}
-      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1733445617&amp;lang=de&amp;site=eds-live
-      \endverb
-    \endentry
-    \entry{rabe.2018}{book}{}
-      \name{author}{1}{}{%
-        {{hash=a99cf80a56968f4e645fc15764d77c1f}{%
-           family={Rabe},
-           familyi={R\bibinitperiod},
-           given={Barry\bibnamedelima G.},
-           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {MIT Press}%
-      }
-      \strng{namehash}{a99cf80a56968f4e645fc15764d77c1f}
-      \strng{fullhash}{a99cf80a56968f4e645fc15764d77c1f}
-      \strng{bibnamehash}{a99cf80a56968f4e645fc15764d77c1f}
-      \strng{authorbibnamehash}{a99cf80a56968f4e645fc15764d77c1f}
-      \strng{authornamehash}{a99cf80a56968f4e645fc15764d77c1f}
-      \strng{authorfullhash}{a99cf80a56968f4e645fc15764d77c1f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9780262346580}
-      \field{title}{Can We Price Carbon?}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://ebookcentral-proquest-com.ezproxy-dhma-1.redi-bw.de/lib/dhbw-mannheim/detail.action?docID=5351324
-      \endverb
-      \verb{url}
-      \verb https://ebookcentral-proquest-com.ezproxy-dhma-1.redi-bw.de/lib/dhbw-mannheim/detail.action?docID=5351324
-      \endverb
-    \endentry
-    \entry{ub4.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/umwelt-wirtschaft/gesellschaftliche-kosten-von-umweltbelastungen#gesamtwirtschaftliche-bedeutung-der-umweltkosten}}
-      \field{title}{Gesellschaftliche Kosten von Umweltbelastungen}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{hubert.2019}{book}{}
-      \name{author}{1}{}{%
-        {{hash=7517502667e2e13138580620ebfd4b4a}{%
-           family={Hubert},
-           familyi={H\bibinitperiod},
-           given={Frank},
-           giveni={F\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {NWB Verlag}%
-      }
-      \strng{namehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{fullhash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{bibnamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authorbibnamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authornamehash}{7517502667e2e13138580620ebfd4b4a}
-      \strng{authorfullhash}{7517502667e2e13138580620ebfd4b4a}
-      \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9783470001531}
-      \field{series}{Kompakt-Training Praktische Betriebswirtschaft}
-      \field{title}{VWL für BWLer / von Prof. Dr. Frank Hubert.}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1686463200&amp;lang=de&amp;site=eds-live
-      \endverb
-      \verb{url}
-      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1686463200&amp;lang=de&amp;site=eds-live
-      \endverb
-    \endentry
-    \entry{ub.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/themen/der-eu-emissionshandel-wird-umfassend-reformiert}}
-      \field{title}{Der EU-Emissionshandel wird umfassend reformiert}
-      \field{urlday}{17}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{icap.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
-           family={{International Carbon Action Partnership (ICAP)}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=c7f214551257293c57f1059494344d7d}{%
-           family={{Offical Website of the International Carbon Action Partnership}},
-           familyi={O\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{fullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{bibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorbibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authornamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorfullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{editorbibnamehash}{c7f214551257293c57f1059494344d7d}
-      \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
-      \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://icapcarbonaction.com/system/files/document/ICAP\%20Emissions\%20Trading\%20Worldwide\%202023\%20Status\%20Report_0.pdf}}
-      \field{title}{EMISSIONS TRADING WORLDWIDE - STATUS REPORT 2023}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{eu.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
-           family={{Europäische Kommission}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=1e55fd5e3fde5a8417dc4858bff49024}{%
-           family={{Climate Action - European Commission}},
-           familyi={C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{fullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{bibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{authorbibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{authornamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{authorfullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
-      \strng{editorbibnamehash}{1e55fd5e3fde5a8417dc4858bff49024}
-      \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
-      \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/what-eu-ets_en}}
-      \field{title}{What is the EU ETS?}
-      \field{urlday}{14}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{dehst.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=6fa23ecb70ab77e4e3870fc941e21882}{%
+        {{un=0,uniquepart=base,hash=6fa23ecb70ab77e4e3870fc941e21882}{%
            family={{Deutsche Emissionshandelsstelle}},
            familyi={D\bibinitperiod}}}%
       }
@@ -283,13 +43,16 @@
       \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/nEHS-verstehen/nehs-verstehen_node.html}}
-      \field{title}{Nationalen Emissionshandel verstehen}
-      \field{urlday}{16}
+      \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/Carbon-Leakage/carbon-leakage_node.html}}
+      \field{title}{Carbon Leakage}
+      \field{urlday}{17}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2023}
@@ -297,7 +60,7 @@
     \endentry
     \entry{dehst3.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=6fa23ecb70ab77e4e3870fc941e21882}{%
+        {{un=0,uniquepart=base,hash=6fa23ecb70ab77e4e3870fc941e21882}{%
            family={{Deutsche Emissionshandelsstelle}},
            familyi={D\bibinitperiod}}}%
       }
@@ -319,8 +82,10 @@
       \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.dehst.de/DE/Europaeischer-Emissionshandel/EU-Emissionshandel-verstehen/EU-ETS-auf-einen-Blick/EU-ETS-auf-einen-Blick_node.html#:~:text=Alle\%20im\%20EU\%2DETS\%20erfassten,27\%20Millionen\%20Tonnen\%20CO2\%2DÄq\%20.}}
@@ -331,37 +96,40 @@
       \field{year}{2022}
       \field{urldateera}{ce}
     \endentry
-    \entry{ub3.2023}{misc}{}
+    \entry{dehst.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=6fa23ecb70ab77e4e3870fc941e21882}{%
+           family={{Deutsche Emissionshandelsstelle}},
+           familyi={D\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
+        {{hash=d769b9c56a50a27b030e1dab18e1e2bd}{%
+           family={{Webseite der Deutschen Emissionshandelsstelle}},
            familyi={W\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {o.O.}%
       }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{namehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{fullhash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{bibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authorbibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authornamehash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{authorfullhash}{6fa23ecb70ab77e4e3870fc941e21882}
+      \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
+      \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
+      \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
       \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/klima/der-europaeische-emissionshandel#teilnehmer-prinzip-und-umsetzung-des-europaischen-emissionshandels}}
-      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
-      \field{urlday}{17}
+      \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/nEHS-verstehen/nehs-verstehen_node.html}}
+      \field{title}{Nationalen Emissionshandel verstehen}
+      \field{urlday}{16}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2023}
@@ -369,7 +137,7 @@
     \endentry
     \entry{eu.2024}{misc}{}
       \name{author}{1}{}{%
-        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+        {{un=0,uniquepart=base,hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
            family={{Europäische Kommission}},
            familyi={E\bibinitperiod}}}%
       }
@@ -390,9 +158,12 @@
       \strng{editorbibnamehash}{ae8d830bb26092d5020d80d592d199e3}
       \strng{editornamehash}{ae8d830bb26092d5020d80d592d199e3}
       \strng{editorfullhash}{ae8d830bb26092d5020d80d592d199e3}
-      \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{extraname}{1}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/auctioning_en}}
@@ -405,7 +176,46 @@
     \endentry
     \entry{eu2.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+        {{un=0,uniquepart=base,hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+           family={{Europäische Kommission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1e55fd5e3fde5a8417dc4858bff49024}{%
+           family={{Climate Action - European Commission}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{fullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{bibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorbibnamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authornamehash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{authorfullhash}{f45d59c618d5692dfb35afecbd1bb6c9}
+      \strng{editorbibnamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
+      \field{extraname}{2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation_en}}
+      \field{title}{Free allocation}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{eu3.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
            family={{Europäische Kommission}},
            familyi={E\bibinitperiod}}}%
       }
@@ -427,57 +237,24 @@
       \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
       \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/free-allocation_en}}
-      \field{title}{Free allocation}
-      \field{urlday}{14}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
-      \field{urldateera}{ce}
-    \endentry
-    \entry{ub2.2023}{misc}{}
-      \name{author}{1}{}{%
-        {{hash=eb35b544edd5583deae1b04b57cf5a08}{%
-           family={{Umweltbundesamt}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
-           family={{Webseite des Umweltbundesamtes}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {o.O.}%
-      }
-      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
-      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
-      \field{extraname}{4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/cbam_factsheet_de.pdf}}
-      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
+      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/market-stability-reserve_en}}
+      \field{title}{Market Stability Reserve}
       \field{urlday}{17}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2023}
       \field{urldateera}{ce}
     \endentry
-    \entry{eu3.2023}{misc}{}
+    \entry{eu.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
+        {{un=0,uniquepart=base,hash=f45d59c618d5692dfb35afecbd1bb6c9}{%
            family={{Europäische Kommission}},
            familyi={E\bibinitperiod}}}%
       }
@@ -499,13 +276,125 @@
       \strng{editornamehash}{1e55fd5e3fde5a8417dc4858bff49024}
       \strng{editorfullhash}{1e55fd5e3fde5a8417dc4858bff49024}
       \field{extraname}{4}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/market-stability-reserve_en}}
-      \field{title}{Market Stability Reserve}
-      \field{urlday}{17}
+      \field{howpublished}{\url{https://climate.ec.europa.eu/eu-action/eu-emissions-trading-system-eu-ets/what-eu-ets_en}}
+      \field{title}{What is the EU ETS?}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{hubert.2020}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7517502667e2e13138580620ebfd4b4a}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Verlag W. Kohlhammer}%
+      }
+      \strng{namehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{fullhash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{bibnamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authorbibnamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authornamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authorfullhash}{7517502667e2e13138580620ebfd4b4a}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783170373921}
+      \field{title}{Globaler Klimawandel aus ökonomischer Perspektive : mikro- und makroökonomische Konsequenzen, Lösungsansätze und Handlungsoptionen / Frank Hubert.}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1733445617&amp;lang=de&amp;site=eds-live
+      \endverb
+      \verb{url}
+      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1733445617&amp;lang=de&amp;site=eds-live
+      \endverb
+    \endentry
+    \entry{hubert.2019}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7517502667e2e13138580620ebfd4b4a}{%
+           family={Hubert},
+           familyi={H\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {NWB Verlag}%
+      }
+      \strng{namehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{fullhash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{bibnamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authorbibnamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authornamehash}{7517502667e2e13138580620ebfd4b4a}
+      \strng{authorfullhash}{7517502667e2e13138580620ebfd4b4a}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783470001531}
+      \field{series}{Kompakt-Training Praktische Betriebswirtschaft}
+      \field{title}{VWL für BWLer / von Prof. Dr. Frank Hubert.}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1686463200&amp;lang=de&amp;site=eds-live
+      \endverb
+      \verb{url}
+      \verb https://login.ezproxy-dhma.redi-bw.de/login?url=https://search.ebscohost.com/login.aspx?direct=true&amp;db=cat09336a&amp;AN=bkm.1686463200&amp;lang=de&amp;site=eds-live
+      \endverb
+    \endentry
+    \entry{icap.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
+           family={{International Carbon Action Partnership (ICAP)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=c7f214551257293c57f1059494344d7d}{%
+           family={{Offical Website of the International Carbon Action Partnership}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{fullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{bibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authorbibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authornamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{authorfullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{editorbibnamehash}{c7f214551257293c57f1059494344d7d}
+      \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
+      \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
+      \field{extraname}{1}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://icapcarbonaction.com/system/files/document/ICAP\%20Emissions\%20Trading\%20Worldwide\%202023\%20Status\%20Report_0.pdf}}
+      \field{title}{EMISSIONS TRADING WORLDWIDE - STATUS REPORT 2023}
+      \field{urlday}{16}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2023}
@@ -513,7 +402,7 @@
     \endentry
     \entry{icap2.2023}{misc}{}
       \name{author}{1}{}{%
-        {{hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
+        {{un=0,uniquepart=base,hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
            family={{International Carbon Action Partnership (ICAP)}},
            familyi={I\bibinitperiod}}}%
       }
@@ -535,8 +424,10 @@
       \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://icapcarbonaction.com/system/files/ets_pdfs/icap-etsmap-factsheet-43.pdf}}
@@ -547,36 +438,190 @@
       \field{year}{2022}
       \field{urldateera}{ce}
     \endentry
-    \entry{dehst2.2023}{misc}{}
+    \entry{rabe.2018}{book}{}
       \name{author}{1}{}{%
-        {{hash=6fa23ecb70ab77e4e3870fc941e21882}{%
-           family={{Deutsche Emissionshandelsstelle}},
-           familyi={D\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=a99cf80a56968f4e645fc15764d77c1f}{%
+           family={Rabe},
+           familyi={R\bibinitperiod},
+           given={Barry\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{a99cf80a56968f4e645fc15764d77c1f}
+      \strng{fullhash}{a99cf80a56968f4e645fc15764d77c1f}
+      \strng{bibnamehash}{a99cf80a56968f4e645fc15764d77c1f}
+      \strng{authorbibnamehash}{a99cf80a56968f4e645fc15764d77c1f}
+      \strng{authornamehash}{a99cf80a56968f4e645fc15764d77c1f}
+      \strng{authorfullhash}{a99cf80a56968f4e645fc15764d77c1f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780262346580}
+      \field{title}{Can We Price Carbon?}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://ebookcentral-proquest-com.ezproxy-dhma-1.redi-bw.de/lib/dhbw-mannheim/detail.action?docID=5351324
+      \endverb
+      \verb{url}
+      \verb https://ebookcentral-proquest-com.ezproxy-dhma-1.redi-bw.de/lib/dhbw-mannheim/detail.action?docID=5351324
+      \endverb
+    \endentry
+    \entry{ub.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
-        {{hash=d769b9c56a50a27b030e1dab18e1e2bd}{%
-           family={{Webseite der Deutschen Emissionshandelsstelle}},
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
            familyi={W\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {o.O.}%
       }
-      \strng{namehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{fullhash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{bibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authorbibnamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authornamehash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{authorfullhash}{6fa23ecb70ab77e4e3870fc941e21882}
-      \strng{editorbibnamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \strng{editornamehash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \strng{editorfullhash}{d769b9c56a50a27b030e1dab18e1e2bd}
-      \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{1}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/Carbon-Leakage/carbon-leakage_node.html}}
-      \field{title}{Carbon Leakage}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/themen/der-eu-emissionshandel-wird-umfassend-reformiert}}
+      \field{title}{Der EU-Emissionshandel wird umfassend reformiert}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{ub3.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{2}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/klima/der-europaeische-emissionshandel#teilnehmer-prinzip-und-umsetzung-des-europaischen-emissionshandels}}
+      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{ub2.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{3}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/sites/default/files/medien/11850/publikationen/cbam_factsheet_de.pdf}}
+      \field{title}{Einführung eines CO2-Grenzausgleichssystems (CBAM) in der EU}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{ub4.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=eb35b544edd5583deae1b04b57cf5a08}{%
+           family={{Umweltbundesamt}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=48fa4aeb9bec32348af70e3c81ccf352}{%
+           family={{Webseite des Umweltbundesamtes}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{fullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{bibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorbibnamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authornamehash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{authorfullhash}{eb35b544edd5583deae1b04b57cf5a08}
+      \strng{editorbibnamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editornamehash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \strng{editorfullhash}{48fa4aeb9bec32348af70e3c81ccf352}
+      \field{extraname}{4}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.umweltbundesamt.de/daten/umwelt-wirtschaft/gesellschaftliche-kosten-von-umweltbelastungen#gesamtwirtschaftliche-bedeutung-der-umweltkosten}}
+      \field{title}{Gesellschaftliche Kosten von Umweltbelastungen}
       \field{urlday}{17}
       \field{urlmonth}{12}
       \field{urlyear}{2023}
