@@ -133,6 +133,43 @@
       \field{year}{2024}
       \field{urldateera}{ce}
     \endentry
+    \entry{epa.2023}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=de3b5f3f3e4dcccb9bdf618270327bf0}{%
+           family={{EPA}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a8889324e8428cf5157cf458ab1226bf}{%
+           family={{Offical Website of the United States Environmental Protection Agency}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{fullhash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{bibnamehash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{authorbibnamehash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{authornamehash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{authorfullhash}{de3b5f3f3e4dcccb9bdf618270327bf0}
+      \strng{editorbibnamehash}{a8889324e8428cf5157cf458ab1226bf}
+      \strng{editornamehash}{a8889324e8428cf5157cf458ab1226bf}
+      \strng{editorfullhash}{a8889324e8428cf5157cf458ab1226bf}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.epa.gov/ghgemissions/understanding-global-warming-potentials}}
+      \field{title}{Understanding Global Warming Potentials}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+    \endentry
     \entry{eu.2024}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f45d59c618d5692dfb35afecbd1bb6c9}{%

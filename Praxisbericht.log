@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  19 JAN 2024 14:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.5)  19 JAN 2024 17:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1770,7 +1770,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
                    t
-l.583 ...tzung-des-europaischen-emissionshandels}}
+l.620 ...tzung-des-europaischen-emissionshandels}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1779,7 +1779,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    t
-l.590     \endentry
+l.627     \endentry
                    
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1788,7 +1788,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \NewValue.
 <to be read again> 
                    g
-l.661 ...tschaftliche-bedeutung-der-umweltkosten}}
+l.698 ...tschaftliche-bedeutung-der-umweltkosten}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1797,7 +1797,7 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
                    g
-l.668     \endentry
+l.705     \endentry
                    
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1985,6 +1985,17 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package tocbasic Info: Using my definition of `\numberline' on input line 10.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.10 ...}\cite {ub3.2023})}}{11}{figure.caption.9}
+                                                  %
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+Package tocbasic Info: Using my definition of `\numberline' on input line 11.
 )
 \tf@lof=\write7
 \openout7 = `Praxisbericht.lof'.
@@ -1996,7 +2007,8 @@ exlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/202
 3/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}]
 \openout2 = `Inhalt/03_Verzeichnisse/abkuerzungen.aux'.
 
- (./Inhalt/03_Verzeichnisse/abkuerzungen.tex
+
+(./Inhalt/03_Verzeichnisse/abkuerzungen.tex
 
 LaTeX Warning: Hyper reference `acro:BEHG' on page IV undefined on input line 7
 .
@@ -2022,44 +2034,52 @@ LaTeX Warning: Hyper reference `acro:DEHSt' on page IV undefined on input line
 9.
 
 
-LaTeX Warning: Hyper reference `acro:ETS' on page IV undefined on input line 10
+LaTeX Warning: Hyper reference `acro:EPA' on page IV undefined on input line 10
 .
 
 
-LaTeX Warning: Hyper reference `acro:ETS' on page IV undefined on input line 10
+LaTeX Warning: Hyper reference `acro:EPA' on page IV undefined on input line 10
+.
+
+
+LaTeX Warning: Hyper reference `acro:ETS' on page IV undefined on input line 11
+.
+
+
+LaTeX Warning: Hyper reference `acro:ETS' on page IV undefined on input line 11
 .
 
 
 LaTeX Warning: Hyper reference `acro:ICAP' on page IV undefined on input line 1
-1.
+2.
 
 
 LaTeX Warning: Hyper reference `acro:ICAP' on page IV undefined on input line 1
-1.
+2.
 
 
-LaTeX Warning: Hyper reference `acro:MSR' on page IV undefined on input line 12
+LaTeX Warning: Hyper reference `acro:MSR' on page IV undefined on input line 13
 .
 
 
-LaTeX Warning: Hyper reference `acro:MSR' on page IV undefined on input line 12
+LaTeX Warning: Hyper reference `acro:MSR' on page IV undefined on input line 13
 .
 
 
 LaTeX Warning: Hyper reference `acro:nEHS' on page IV undefined on input line 1
-3.
+4.
 
 
 LaTeX Warning: Hyper reference `acro:nEHS' on page IV undefined on input line 1
-3.
-
-
-LaTeX Warning: Hyper reference `acro:TNAC' on page IV undefined on input line 1
 4.
 
 
 LaTeX Warning: Hyper reference `acro:TNAC' on page IV undefined on input line 1
-4.
+5.
+
+
+LaTeX Warning: Hyper reference `acro:TNAC' on page IV undefined on input line 1
+5.
 
 ) [4
 
@@ -2159,26 +2179,49 @@ chapter 4.
 
  (./Inhalt/04_Inhalt/anhang.tex
 chapter 5.
-<Bilder/supply_demand_ets.png, id=209, 638.385pt x 605.26125pt>
+<Bilder/supply_demand_ets.png, id=216, 638.385pt x 605.26125pt>
 File: Bilder/supply_demand_ets.png Graphic file (type png)
 <use Bilder/supply_demand_ets.png>
 Package pdftex.def Info: Bilder/supply_demand_ets.png  used on input line 5.
 (pdftex.def)             Requested size: 386.95901pt x 366.88145pt.
-<Bilder/up_and_downstream_ets.png, id=213, 965.6075pt x 598.235pt>
+<Bilder/up_and_downstream_ets.png, id=220, 965.6075pt x 598.235pt>
 File: Bilder/up_and_downstream_ets.png Graphic file (type png)
 <use Bilder/up_and_downstream_ets.png>
 Package pdftex.def Info: Bilder/up_and_downstream_ets.png  used on input line 1
 2.
 (pdftex.def)             Requested size: 386.95901pt x 239.73705pt.
-<Bilder/price_co2_eu_ets.png, id=216, 762.85pt x 353.32pt>
+<Bilder/price_co2_eu_ets.png, id=223, 762.85pt x 353.32pt>
 File: Bilder/price_co2_eu_ets.png Graphic file (type png)
 <use Bilder/price_co2_eu_ets.png>
 Package pdftex.def Info: Bilder/price_co2_eu_ets.png  used on input line 19.
 (pdftex.def)             Requested size: 483.69693pt x 224.02684pt.
-<Bilder/prices_nehs.png, id=219, 732.7375pt x 385.44pt>
+<Bilder/cap_ets.png, id=226, 738.76pt x 324.21124pt>
+File: Bilder/cap_ets.png Graphic file (type png)
+<use Bilder/cap_ets.png>
+Package pdftex.def Info: Bilder/cap_ets.png  used on input line 26.
+(pdftex.def)             Requested size: 483.69693pt x 212.27335pt.
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.27 ...CO_2$e (2008-2030) (vgl. \cite{ub3.2023})}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! Illegal parameter number in definition of \abx@field@howpublished.
+<to be read again> 
+                   t
+l.27 ...CO_2$e (2008-2030) (vgl. \cite{ub3.2023})}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+<Bilder/prices_nehs.png, id=229, 732.7375pt x 385.44pt>
 File: Bilder/prices_nehs.png Graphic file (type png)
 <use Bilder/prices_nehs.png>
-Package pdftex.def Info: Bilder/prices_nehs.png  used on input line 26.
+Package pdftex.def Info: Bilder/prices_nehs.png  used on input line 33.
 (pdftex.def)             Requested size: 483.69693pt x 254.43823pt.
 ) [9
 
@@ -2186,7 +2229,8 @@ Package pdftex.def Info: Bilder/prices_nehs.png  used on input line 26.
 
 
  <./Bilder/supply_demand_ets.png>] [10 <./Bilder/up_and_downstream_ets.png> <./
-Bilder/price_co2_eu_ets.png>] [11 <./Bilder/prices_nehs.png>]
+Bilder/price_co2_eu_ets.png>] [11 <./Bilder/cap_ets.png> <./Bilder/prices_nehs.
+png>]
 chapter without number
 ! Illegal parameter number in definition of \abx@field@howpublished.
 <to be read again> 
@@ -2299,11 +2343,11 @@ Package logreq Info: Writing requests to 'Praxisbericht.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50281 strings out of 474273
- 1023153 string characters out of 5747714
- 2020283 words of memory out of 5000000
- 71505 multiletter control sequences out of 15000+600000
- 616608 words of font info for 154 fonts, out of 8000000 for 9000
+ 50302 strings out of 474273
+ 1023568 string characters out of 5747714
+ 2026561 words of memory out of 5000000
+ 71519 multiletter control sequences out of 15000+600000
+ 616815 words of font info for 156 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
  113i,19n,117p,10998b,3047s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/l
@@ -2315,10 +2359,10 @@ blic/lm/lmro12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lm
 ss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmss17.pfb><
 /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/loc
 al/texlive/2023/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on Praxisbericht.pdf (18 pages, 618142 bytes).
+Output written on Praxisbericht.pdf (18 pages, 656564 bytes).
 PDF statistics:
- 385 PDF objects out of 1000 (max. 8388607)
- 323 compressed objects within 4 object streams
- 60 named destinations out of 1000 (max. 500000)
- 32891 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 404 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
+ 63 named destinations out of 1000 (max. 500000)
+ 32896 words of extra memory for PDF output out of 35830 (max. 10000000)
 
