@@ -45,7 +45,6 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
@@ -122,17 +121,16 @@
       \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.dehst.de/DE/Nationaler-Emissionshandel/nEHS-verstehen/nehs-verstehen_node.html}}
       \field{title}{Nationalen Emissionshandel verstehen}
-      \field{urlday}{16}
-      \field{urlmonth}{12}
-      \field{urlyear}{2023}
-      \field{year}{2023}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2024}
       \field{urldateera}{ce}
     \endentry
     \entry{eu.2024}{misc}{}
@@ -364,8 +362,8 @@
     \endentry
     \entry{icap.2023}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
-           family={{International Carbon Action Partnership (ICAP)}},
+        {{un=0,uniquepart=base,hash=9c1604c2a61f5c0a04827241dbec1238}{%
+           family={{ICAP}},
            familyi={I\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -376,12 +374,12 @@
       \list{location}{1}{%
         {o.O.}%
       }
-      \strng{namehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{fullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{bibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorbibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authornamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorfullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{namehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{fullhash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{bibnamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authorbibnamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authornamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authorfullhash}{9c1604c2a61f5c0a04827241dbec1238}
       \strng{editorbibnamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
@@ -402,8 +400,8 @@
     \endentry
     \entry{icap2.2023}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a4bcc14f11d2c9ee4f6fc6075036887a}{%
-           family={{International Carbon Action Partnership (ICAP)}},
+        {{un=0,uniquepart=base,hash=9c1604c2a61f5c0a04827241dbec1238}{%
+           family={{ICAP}},
            familyi={I\bibinitperiod}}}%
       }
       \name{editor}{1}{}{%
@@ -414,12 +412,12 @@
       \list{location}{1}{%
         {o.O.}%
       }
-      \strng{namehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{fullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{bibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorbibnamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authornamehash}{a4bcc14f11d2c9ee4f6fc6075036887a}
-      \strng{authorfullhash}{a4bcc14f11d2c9ee4f6fc6075036887a}
+      \strng{namehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{fullhash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{bibnamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authorbibnamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authornamehash}{9c1604c2a61f5c0a04827241dbec1238}
+      \strng{authorfullhash}{9c1604c2a61f5c0a04827241dbec1238}
       \strng{editorbibnamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editornamehash}{c7f214551257293c57f1059494344d7d}
       \strng{editorfullhash}{c7f214551257293c57f1059494344d7d}
@@ -436,6 +434,46 @@
       \field{urlmonth}{12}
       \field{urlyear}{2023}
       \field{year}{2022}
+      \field{urldateera}{ce}
+    \endentry
+    \entry{pettinger.2017}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9ded3c0ee396a371d550b1f803f209a6}{%
+           family={Pettinger},
+           familyi={P\bibinitperiod},
+           given={Tejvan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6d3a2de7fba2404f1297798b81d41ebd}{%
+           family={{economicshelp.org}},
+           familyi={e\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {o.O.}%
+      }
+      \strng{namehash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{fullhash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{bibnamehash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{authorbibnamehash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{authornamehash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{authorfullhash}{9ded3c0ee396a371d550b1f803f209a6}
+      \strng{editorbibnamehash}{6d3a2de7fba2404f1297798b81d41ebd}
+      \strng{editornamehash}{6d3a2de7fba2404f1297798b81d41ebd}
+      \strng{editorfullhash}{6d3a2de7fba2404f1297798b81d41ebd}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.economicshelp.org/blog/2204/economics/carbon-trading-schemes/}}
+      \field{title}{Carbon Trading Schemes}
+      \field{urlday}{19}
+      \field{urlmonth}{1}
+      \field{urlyear}{2024}
+      \field{year}{2017}
       \field{urldateera}{ce}
     \endentry
     \entry{rabe.2018}{book}{}
